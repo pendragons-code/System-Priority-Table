@@ -1,2 +1,8 @@
 # System-Priority-Table
-A table to help me show people the priority of things as of now.
+| High          |
+| ------------- |
+| Jasbot        |
+| LISBDIEV8     |
+| LISBDIEV8-GUI |
+| ------------- |
+| Low           |
