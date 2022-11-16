@@ -11,6 +11,7 @@ Things of higher priority are on top, this is my development table. This does no
 | Jasbot                      |
 | LISBDIEV8                   |
 | LISBDIEV8-GUI               |
+| GALAHAD                     |
 
 
 Note: LISBDIEV8 GUI can only come in after the TUI/CLI variant is done. I also intend for it to be cross platform.
