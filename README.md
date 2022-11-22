@@ -1,5 +1,5 @@
-# WHY THE TRUCK NOW????
-So I got sick recently and I basically cannot do too much. But here are things I will still work on. Also I am suddenly put into a situation where I cannot host Jasbot and some other stuff locally for some time due to my ISP having maintainence come by soon! After some back and forth I actually decided to host most of my stuff on replit, the free tier.
+# Progress?
+So some shit went down... and guess what? I have made most of the other stuff work and now i can truly concentrate on the things I promised.
 
 # System-Priority-Table
 Things of higher priority are on top, this is my development table. This does not include the multi-headed dick hydra that is my social life and the issues that haunt my on a consistent and clockwork-like basis.
@@ -7,7 +7,6 @@ Things of higher priority are on top, this is my development table. This does no
 
 | High                        |
 | --------------------------- |
-| Alternative host for JASBOT |
 | Jasbot                      |
 | LISBDIEV8                   |
 | LISBDIEV8-GUI               |
