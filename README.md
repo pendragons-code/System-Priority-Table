@@ -1,5 +1,5 @@
 # Progress?
-So some shit went down... and guess what? I have made most of the other stuff work and now i can truly concentrate on the things I promised.
+FUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUU- yeah when i worked on jasbot at first, i was kinda new to nodejs, i left that file sittingon my pc for a long time (nodejs v12 days) and came back at like v16. so yeah i learnt a lot in this time. so I will probably, REWRITE JASBOT.
 
 # System-Priority-Table
 Things of higher priority are on top, this is my development table. This does not include the multi-headed dick hydra that is my social life and the issues that haunt my on a consistent and clockwork-like basis.
