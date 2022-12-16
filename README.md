@@ -1,6 +1,7 @@
 # Progress?
-Yeahhhhh about that... So due to many many reasons. I will now start using slash commands!
-
+As you know im working on getting slash commands, buttons and more working on the discord bots!         
+I will be redoing all the bots and move them to slash commands!     
+That said I will also still be working on other random projects!
 
 # System-Priority-Table
 Things of higher priority are on top, this is my development table. This does not include the multi-headed dick hydra that is my social life and the issues that haunt my on a consistent and clockwork-like basis.
@@ -8,6 +9,7 @@ Things of higher priority are on top, this is my development table. This does no
 
 | High                        |
 | --------------------------- |
+|       Other projects (custom bots)               |
 | Jasbot                      |
 | LISBDIEV8                   |
 | LISBDIEV8-GUI               |
