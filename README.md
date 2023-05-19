@@ -12,9 +12,5 @@ Things of higher priority are on top, this is my development table. This does no
 | --------------------------- |
 |       Other projects (custom bots)               |
 | Jasbot and api.senghong.xyz                      |
-| LISBDIEV8                   |
-| LISBDIEV8-GUI               |
-| GALAHAD                     |
-| YTDL-WEBSERVER              |
 
 Note: LISBDIEV8 GUI can only come in after the TUI/CLI variant is done. I also intend for it to be cross platform.
